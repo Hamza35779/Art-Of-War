@@ -1,0 +1,14 @@
+# ROM files - copyrighted game data (not to be distributed)
+**/*.zip
+
+# Large binaries (distributed via releases, not git)
+*.exe
+*.chm
+*.dll
+
+# Temp files
+*.tmp
+*.log
+
+# Generated
+*.7z
